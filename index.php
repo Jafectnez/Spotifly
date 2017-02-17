@@ -111,7 +111,7 @@
     </div>
     <div class="item">
       <h1 style="color:#ffffff; font-size: 50px; font-weight: bold; text-align: center;">
-        Escucha Spotify en tu PlayStation®.
+        Escucha Spotifly en tu PlayStation®.
       </h1>      
       <div class="carousel-caption">        
       </div>
